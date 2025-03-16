@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: BattleCraft |cff00ff99SnowfallKeyPress|r
+## Notes: Modify key bindings to work on key press rather than key release
+## OptionalDeps: SnowfallKeyPressSettings
+## SavedVariables: SnowfallKeyPressDB
+SnowfallKeyPressSettings\SnowfallKeyPressSettings.lua
+BattleCraft_SnowfallKeyPress.lua
